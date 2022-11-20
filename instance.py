@@ -62,7 +62,7 @@ class Problem:
         TIME = 'Time allocation'
         BERTH_SIZE = "Berth length"
         BERTH_BREAKS =  "Berth breaks"
-        VESSELS = "Vessel_index"
+        VESSELS = "Vessel index"
 
         with open(infile, 'r') as f:
             breaks = []
@@ -93,7 +93,7 @@ class Problem:
                         breaks.append(Break(pos))
                     
                     else:
-                        vessel_info = line.strip().split('\t')
+                        vessel_info = line.strip().split()
                         if len(vessel_info) == 4:
                             index, size, arrival_time, processing_time, weight = vessel_info + [1]
                         elif len(vessel_info) == 5:
