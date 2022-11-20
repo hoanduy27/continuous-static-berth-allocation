@@ -1,2 +1,2 @@
 # CSBAP
-- Assignment 221
+usage: ``python main.py <infile> <outfile>``
