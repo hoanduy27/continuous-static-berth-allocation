@@ -1,0 +1,18 @@
+% Time allocation
+4963
+
+% Berth length
+379
+
+% Berth breaks
+27
+
+% Vessel index, size, arrival time, processing time, weight (=1 as default)
+1 1 68 857 10
+2 76 394 650 2
+3 10 207 776 1
+4 318 390 345 4
+5 238 584 666 10
+6 35 306 373 2
+7 7 571 469 5
+8 136 223 759 4

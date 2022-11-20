@@ -1,0 +1,12 @@
+% Vessel index, mooring time $u_i$, starting berth position occupied $v_i$
+0	478	285
+1	665	0
+2	1837	285
+3	1032	285
+4	969	0
+5	1049	285
+6	212	0
+7	756	754
+
+Our cost = 23659
+Time = 0.06412839889526367
